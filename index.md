@@ -6,7 +6,7 @@ print("Hello there! I'm Hedge, an aspiring penetration tester and developer!")
 
 ### Programming Languages I've Made:
 - [Cobalt](https://github.com/hedgenull/cobalt/): Small, from-scratch language that transpiles to Python.
-- [Echo*](https://github.com/hedgenull/echo-star/): Small but powerful language where everything's an expression.
+- [MochaScript](https://github.com/hedgenull/mochascript/): Small but powerful language where everything's an expression.
 - [SkeedgeScript](https://github.com/hedgenull/skeedgescript/): Accumulative, esoteric language where you can only use "skeedge."
 - [Fractal9](https://github.com/hedgenull/fractal9/): In a nutshell, obfuscated Forth.
 
